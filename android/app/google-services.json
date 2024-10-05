@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883016337690",
+    "project_id": "quizrush1-ae2da",
+    "storage_bucket": "quizrush1-ae2da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883016337690:android:192475dc6e194b100c44a3",
+        "android_client_info": {
+          "package_name": "com.mycompany.quizrush1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMYUH9DevlV_gPQA2n9ye348TEAMFlMbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
